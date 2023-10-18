@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "name": "File Browser",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 8096,
   "id": "filebrowser",

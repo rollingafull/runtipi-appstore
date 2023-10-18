@@ -1,16 +1,13 @@
 {
   "$schema": "../schema.json",
   "name": "Immich",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 8128,
   "id": "immich",
   "tipi_version": 48,
   "version": "1.81.1",
-  "categories": [
-    "data",
-    "photography"
-  ],
+  "categories": ["data", "photography"],
   "description": "Photo and video backup solution directly from your mobile phone.",
   "short_desc": "Photo and video backup solution directly from your mobile phone.",
   "author": "Alex Tran",

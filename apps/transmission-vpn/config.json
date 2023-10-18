@@ -1,21 +1,16 @@
 {
   "$schema": "../schema.json",
   "name": "Transmission (VPN)",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 9091,
   "requirements": {
-    "ports": [
-      51413
-    ]
+    "ports": [51413]
   },
   "id": "transmission-vpn",
   "tipi_version": 4,
   "version": "5.2.0",
-  "categories": [
-    "utilities",
-    "security"
-  ],
+  "categories": ["utilities", "security"],
   "description": "Transmission is running only when OpenVPN has an active tunnel. It has built-in support for many popular VPN providers to make the setup easier.",
   "short_desc": "BitTorrent client with VPN support.",
   "author": "haugene",

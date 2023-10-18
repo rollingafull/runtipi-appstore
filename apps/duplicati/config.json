@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "Duplicati",
   "port": 8159,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "duplicati",
   "tipi_version": 3,

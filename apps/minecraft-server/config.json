@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "name": "Minecraft Server",
-  "available": true,
+  "available": false,
   "exposable": true,
   "no_gui": true,
   "port": 25565,
